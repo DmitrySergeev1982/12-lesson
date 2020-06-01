@@ -1,0 +1,23 @@
+{
+  "name": "12-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001bhtml)",
+  "scripts": {
+    "dev": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitrySergeev1982/12-lesson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitrySergeev1982/12-lesson/issues"
+  },
+  "homepage": "https://github.com/DmitrySergeev1982/12-lesson#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
